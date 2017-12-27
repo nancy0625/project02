@@ -12,10 +12,6 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import cn.edu.gdmec.android.android_project02.MyDataBaseHelper;
-import cn.edu.gdmec.android.android_project02.HttpThreadd;
-import cn.edu.gdmec.android.android_project02.JsonTools;
-
 import java.util.ArrayList;
 import java.util.List;
 
